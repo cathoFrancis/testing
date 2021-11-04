@@ -1,0 +1,16 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 25 25" width="25" height="25">
+	<title>HEADER</title>
+	<defs>
+		<image  width="25" height="25" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABkAAAAZCAMAAADzN3VRAAAAAXNSR0IB2cksfwAAAotQTFRF6gUa6AAR6RYe9qqw/////f39/f39/f39/f39/f39/f39/f39+cPG7B4o6AAQ6gUZ/////f39/f39/f39/f39////9qqw////+cPG6RYe9qqw////+MPG7B4o6AAR6RYe9qqw+MPF6h4n6AAQ6gUa6QAS6RYf9aqx/v7+/v39/f7+/P///P7++cTH6x4o6QAR6gUZ6gUZ6QAS/Ozt9MXH+uXm/v//+MPG7B4o6gAR6QQZ6gUZ6gUZ6AAR+/X19efn87G17VNd8pyg9ubm+/Hy6gUZ6gUZ6gAS6hYf+/388HuD5wAP6gYa6AAM8HJ6/Pf36gUZ6QQY6QQY6RYe/PX1+Ono9tnb8srK8X+F6QAK6QAP6AAI8YSM88nL9Nrc9+jp/PP06x4n6QAQ6QQY/f//8qar6BUh6zY/7l9o6xgn6gAK6xEj7mx17EFK6A4c8JKY/fj46gUZ6gUZ6gUa6QAR+fTy7nyC6wQU6h0s6hMk6gAT6g8h6hgp6wYX6QAD7Whx+e3t+u7u7W506QAJ6gMY6gQY6gMX6QAG7ltj+ufo6gUZ/Pv6742S6AMS6QAN7n+F+/b26gUZ8pqf6QYW6gAP6gAQ8IaM+/396gUZ6gUZ9J2j6AAE6Q8a7DFA6RMk5wAA8YqP+vDw8JKV8YCF+NfY+fHx99/h8ImM7oiM+ufq/v79/Pz8/fP0+eDh/fPz/P3+/fz96gUZ++7u9dDQ+uzs6gUZ6gAS/fr6+vPz/Pn56gAR6gAS6hYf7B4o6gAR6gAS6hYf9aqx+cTH6x4o6gAR6hYf9qqx/////fz8////+cTH6x4o9qqx/f39/f39+cTH/f39/v7+/v7+/v7+/v7+/f39/f39/f39/v7+2z8BigAAANl0Uk5TAAAAAAAAB0iY0fD/AAAAAARm5ulyBifRKDXt/+43KPD///AoBdH////////////SBXT//////////3QI6f//////////VP////////////9Vn///////////////////////0v/////////////////T8P//////////////////////////////8f///////9T////////Vn///////////////////////////////6v///3XR////0ijw8CgANOnpNQAAHs3/zh8AAGhnAAhUn9Lx8dKfCHmFNv8AAAHNSURBVHicY2BgYGRiZmFlY+fg5OLm4uRgZ2Nl4eHl4+dnAMsICApxw4CwiChCRkycGxmIS8BkJKWkUWSkZWQhMnLyCmgyikrKIBkVVTV1kIyGppa2DojWkNbV0zfgZ+A3NFID69GSNjYxNdMC6TG3sLTiZ7C2sQXrMbOzd3B0cnYxg8jYWDO4url7AGXMzDy9vH18/fzNzDRAMm4BDIFBtsEK0iGhYeERkVHRMbFx8QnSuolJboEMyUEg01JS09IzMrOyc3Lz8gvAegoZiopLgHpKy7LKKyqrqmtq6+obwDJFDEFg0xqbmt1bWt1a26raOzrBMm4MXW4lQBeYdff0uvu4+VT19U8wA8t0MUyEuC1Fe9LkKVVT+6ZNlwa72m0Gw0yYq2fNnjN33vwF2tKgMChxm8kQAJVZuGjxkqXLlq9YabZKWhfsH2sbsAz36unSa9auM1u/ARIGG62B4QaRAQbkps1bzIA02LStwBA12AaV0di+Y6cWRMZiFyis+XfvUYfGT4oWJH7M9+7jB8nsP3AQokeDGxw9GtKHDh+ByBw9dhwicwIic/LUaZjMGYGzQnDThM4JnEfIsLBeuHjp8hXuq9euX7zBygKWAQCCLZnxndroigAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="HEADER">
+		<g id="LANGUAGES">
+			<g id="Lang">
+				<use id="IMG" style="opacity: 0.502" href="#img1" x="0" y="0" />
+			</g>
+		</g>
+	</g>
+</svg>

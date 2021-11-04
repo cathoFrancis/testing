@@ -1,0 +1,14 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 25 25" width="25" height="25">
+	<title>FOOTER</title>
+	<defs>
+		<image  width="25" height="25" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABkAAAAZCAMAAADzN3VRAAAAAXNSR0IB2cksfwAAAwBQTFRF/////uy9/td5/th7/th8/td5/uq2/////+3C/bgP/bMA/bQE/bYI/+m1/tuG/bkU/bkT/bQA/tZ0/tyI/bQD/7sT/7gE/tZ1/tyJ/7wT3qMV0pYH/9h2/7oT/rkT/roT/8US4qgUz5UH/9d2/70T/8IS/74T/8ATp34YWUUdnHIK/9x2/duJ/7kD/8AS/8MS7LAU5qwVpX4YoHoYq4IYQzcehGkabU8N/dp2/uCJ2Z0Fq4EY+7gT+LcTyZYV/LsT054VzJkW7rIUclkbSzsdd1obaVIbRjgeZU0cdFob/8gS0psH/NV3/+iIjGgKMyog/8QSu44XHhshk3AZo3wYWEYdPTIej2waJiAgpH8Y4aoUe14bVkQdVUIdalIcX0wcmHcZTzoO/dx3/+eIkWsJQzUf5qwUvZEWg2QaeVwbHxwglXIZPjIedl0bVEIddVgbPjEf4q8UimkaUkIdiWsaOC4fs4kXMikfTTwex5EH/912kWwKTz8ei2kZMysfdV0aOC4euIwXPDEf16MVMyofhWoakm8an3YZKyMf1qUUqYEYpnwY7bAU9bcT/7wE/dZ2UEAegGEaXEocx50VQjQeuo4XNCsf2qYUU0UdTj0ds4YXhGUa560U56wU/bUE/tZ2TT4en3cYuJAWMykfwpMWOzAf3acV0Z4ViGga0ZwW/8ES/8ITj2sJi2kanHcZ2aUUkGwZ87MU+bYT/78T/+SIrX4IelwbOS4eTj8d+sAT/8wS/N2JaEsMZU4cRTceTDweYksd/N6JgVwKcFUcU0EeEhIhtooX/8MTdlQLc1YbRzkeSjseQjUeCw0hj24Z/8YSa0wMXUcdTTwdHRsgJSAfExMhk3IZ/t2JvowHxZYWTj4dGRghIh8g/dyI/74CSDkdJB8gk3MZ/duF/rMAfWAbCAsiFBQhAwgijG4Z/tV0/u3C/bcP/rUA8rEFkGoKak4MZEkNuIcH/7wD/bUI/+i0/uzA/dd6/9p7/+N7/+F7/+J7/9x7/td8/td4/um3////ozrMvgAAAQB0Uk5THq3f3t7htiSp/////7fa////5df////h1////+H////////h/////////+HX///////////////h1////////////////////////+HX///////////////////////////h1//////////////////////////////h///////////////////////////h////////////////////4f//////////////////////////1////////9f//////9f////////////////////////////X///////X/////9v////////kqP///////////7qu3t7e3t7e3uC4J+nNQfAAAAGZSURBVHicY2BgZGJmQQfMrGzsDBycXNyYgIuHl4GPi18AE/ALCjEIi2CREBAVE2eQwCYjKSUtg0VGVk5eQVFJGU1GTlJFVU1dRUNTS5tBR1cVrFBPVk5NXVTfwNBI09jE1MzcgsHSytpGXk7U1s5e1cHRydnF1c3Z3cPTy9uHwdfPXyVAXSEwKDgkNCw8IjIqOiY2Lj4hMYkhOSU1LT0uIzMrOyc3L7+gsKi4pLSsvKKyiiG5uqa2rr6hsam5pbWtvaOzqzyz276nt68fKDNh4qTJU6ZOmz5lxsxZs+eozFUJkFcRnTcfKLNgYe6ixUuWLlu+YuWq1aJyKvIgtwJlfNdMWbtu/YaNaZv0FDYLyME8BpTZsnXb9h07d4lClAogyezes3ff/gNT1eUE0GUOHjq870jT0WPHMWVOnDx1+szZc+cxZHZfuHjp8pWr1xQwZK7fuHnr9h1sMnfvrbp/+8HVh+gy4gyPHq9+8vTZ8xeo9vALvmR49frN23fvP3z8hJJ2BD9/YWD4+u37j5+/fv9BSW9///0HAAxUrfSqekbZAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="FOOTER">
+		<g id="Logos">
+			<use id="IMG" href="#img1" x="0" y="0" />
+		</g>
+	</g>
+</svg>

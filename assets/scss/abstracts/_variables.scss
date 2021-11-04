@@ -1,0 +1,84 @@
+/**
+* Colors
+*
+* Название переменной конкретного цвета генерируется через сервис: http://chir.ag/projects/name-that-color/.
+* Значение цвета всегда указывается в HEX-формате в нижнем регистре (кроме исключительных случаев).
+*/
+// Пример указания цветов
+$web-orange: #FFAA00;
+$cod-gray-solid: #0c0c0c;
+$cod-gray-approx: #111111;
+$mine-shaft:#3F3F3F;
+$cod-gray: #202f2f;
+$silver: #CCCCCC;
+$valencia:#DB3F41;
+$dusty-gray:#999999;
+$color-logo-partners:$dusty-gray;
+$color-btn:$valencia;
+$color-text:$silver;
+$color-background: $cod-gray;
+$color-background: $cod-gray;
+$color-border-table: $mine-shaft;
+$color-bonuses: $web-orange;
+
+/**
+* Fonts
+*/
+$font-path: "../fonts";
+$font-family-custom: 'Roboto', sans-serif;
+$font-family-default: $font-family-custom;
+/**
+* Breakpoints
+*/
+// Пример указания медиазапросов, затем можно использовать ее как '@media #{$screen-medium} {...}'
+// $screen-mobile: 'min-width: 380px';
+$screen-tablet: 'min-width: 768px';
+// $screen-desktop: 'min-width: 1920px';
+
+
+
+/**
+* Layout
+*/
+$countainer: 1170px;
+
+
+/**
+* Sizes
+*/
+// $font-size-title-huge: 36px;
+// $font-size-title-big: 24px;
+// $font-size-title-average: 18px;
+// $font-size-title-base: 16px;
+
+// $font-size-title-mobile-huge: 30px;
+// $font-size-title-mobile-big: 20px;
+
+$font-size-text: 18px;
+// $font-size-base: 16px;
+
+// $font-size-text-small: 12px;
+/**
+* Transitions and Animations
+*/
+
+
+
+/**
+* Radius
+*/
+// $border-radius-big: 8px;
+// $border-radius-average: 5px;
+// $border-radius-small: 4px;
+
+
+/**
+* Box-shadows
+*/
+
+
+
+/**
+* Z-indexes
+*/
+

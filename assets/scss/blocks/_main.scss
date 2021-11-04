@@ -1,0 +1,42 @@
+.main {
+    &__slider {
+        height: 500px;
+        background-image: url("/assets/icons/svg/Slider-img.svg");
+        // background-image: url(/assets/icons/svg/Slider.png);
+        // background: url("/assets/icons/svg/Slider.png") no-repeat center right 8px;
+    }
+    &__slider-block {
+    }
+    &__cards {
+        // height: 22.5rem;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+    }
+    &__card-main {
+        display: flex;
+        max-width: $countainer;
+        margin: 0 auto;
+        flex-direction: column;
+        align-items: center;
+    }
+    @media ($screen-tablet) {
+        &__card-main {
+            display: flex;
+            flex-direction: row;
+            max-width: $countainer;
+            margin: 0 auto;
+            justify-content: space-between;
+        }
+    }
+    &__img-character {
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+        height: 365px;
+    }
+    &__card {
+        padding-top: 60px;
+        padding-bottom: 70px;
+    }
+}
