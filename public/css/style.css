@@ -294,7 +294,7 @@ td span {
 }
 .main__slider {
    height: 500px;
-   background-image: url(../../assets/icons/svg/Slider-img.svg);
+   background-image: url("../../assets/icons/svg/Slider-img.svg");
 }
 .main__slider-block {
    display: flex;
